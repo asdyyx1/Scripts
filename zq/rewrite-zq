@@ -1,6 +1,6 @@
 
 hostname = *.youth.cn, ios.baertt.com
 
-^https?://ios\.baertt\.com/v5/article/complete script-path=https://raw.githubusercontent.com/ztxtop/x/main/zqread.js
-^https?://ios\.baertt\.com/v5/user/app_stay\.json script-path=https://raw.githubusercontent.com/ztxtop/x/main/zqread.js
-^https?://\w+\.youth\.cn/(TaskCenter|WebApi/NewTaskIos)/(sign|getSign)(\?.+)?$ script-path=https://raw.githubusercontent.com/ztxtop/x/main/zqread.js
+^https?://ios\.baertt\.com/v5/article/complete https://raw.githubusercontent.com/ztxtop/x/main/zqread.js
+^https?://ios\.baertt\.com/v5/user/app_stay\.json https://raw.githubusercontent.com/ztxtop/x/main/zqread.js
+^https?://\w+\.youth\.cn/(TaskCenter|WebApi/NewTaskIos)/(sign|getSign)(\?.+)?$ https://raw.githubusercontent.com/ztxtop/x/main/zqread.js
